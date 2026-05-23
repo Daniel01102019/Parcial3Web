@@ -41,6 +41,6 @@ Proyecto desplegado en:
 
 ## Autor
 
-Daniel Alejandro Cardenas Villota
-Alejandro Ordoñez
-Anny 
+Daniel Alejandro Cardenas Villota,
+Alejandro Ordoñez,
+Anny, 

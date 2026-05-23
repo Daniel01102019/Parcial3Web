@@ -323,11 +323,6 @@ export default function Cart() {
 
             <div className="text-left lg:text-right">
 
-              <p className="text-gray-400 line-through">
-
-                ${(item.price * item.quantity * 1.1).toLocaleString("es-CO")}
-
-              </p>
 
               <p
                 className="
